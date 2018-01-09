@@ -39,3 +39,10 @@ luac.out
 *.x86_64
 *.hex
 
+# Editors
+*~
+*#
+.DS_STORE
+.netbeans
+nbproject
+.idea
